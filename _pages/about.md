@@ -54,7 +54,7 @@ Papers
   Fengji Ma, Junyi Chai, ***Haitao Li***, Jinping Sun
 * ***CTF-Net: A Coarse-to-Fine Network for Low Light Image Enhancement, Neurocomputing.*** <br>
   Fengji Ma, Junyi Chai, ***Haitao Li***, Jinping Sun.
-* ***A multi-level fusion network for airport capacity prediction”.*** <br>
+* ***A multi-level fusion network for airport capacity prediction.*** <br>
   Wenbo Du, Shenwen Chen, ***Haitao Li***, Zhishuai Li, Xianbin Cao, Yisheng Lv.
   ***(IEEE Transactions on Intelligent Transportation Systems)***
 * ***A Visual Feedback Supported Intelligent Assistive Technique for ALS Patients.*** <br>
