@@ -71,4 +71,4 @@ Experience
 * ***06.2020-09.2019*** Chairman of College Student Union, BUaa.
 
  
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=bju4B0QMEhcfQpVMAV_s8aJSfw7oX9YpdHi3zjXMeOs&cmn=f00b34'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
