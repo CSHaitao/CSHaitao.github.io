@@ -44,22 +44,22 @@ Papers
   **Haitao Li**,Jingtao Zhan,Qingyao Ai,Jiaxin Mao,YIqun Liu,Min Zhang,Shaoping Ma.<br>
 * **THUIR at the NTCIR-16 WWW-4 Task.** <br>
   Shenghao Yang, ***Haitao Li***, Zhumin Chu, Jingtao Zhan, Yiqun Liu, Min Zhang and Shaoping Ma. <br>
-  **(NTCIR 16)**
+  **(NTCIR 16)**<br>
 * **Underexposed Image Enhancement via Unsupervised Feature Attention Network.** <br>
   Fengji Ma, **Haitao Li**. <br>
-  **(ICME2021)**
+  **(ICME2021)**<br>
 * **LDSR:Robust Low-Light Enhancement via Dark Structure-Revealing Filter.** <br>
-  **Haitao Li**, Fengji Ma.
+  **Haitao Li**, Fengji Ma.<br>
 * **A Data Free Self-supervised Learning Network For Low Light Image Enhancement.** <br>
-  Fengji Ma, Junyi Chai, **Haitao Li**, Jinping Sun.
+  Fengji Ma, Junyi Chai, **Haitao Li**, Jinping Sun.<br>
 * **CTF-Net: A Coarse-to-Fine Network for Low Light Image Enhancement, Neurocomputing.** <br>
   Fengji Ma, Junyi Chai, **Haitao Li**, Jinping Sun.
 * **A multi-level fusion network for airport capacity prediction.** <br>
-  Wenbo Du, Shenwen Chen, **Haitao Li**, Zhishuai Li, Xianbin Cao, Yisheng Lv.
-  **(IEEE Transactions on Intelligent Transportation Systems)**
+  Wenbo Du, Shenwen Chen, **Haitao Li**, Zhishuai Li, Xianbin Cao, Yisheng Lv.<br>
+  **(IEEE Transactions on Intelligent Transportation Systems)**<br>
 * **A Visual Feedback Supported Intelligent Assistive Technique for ALS Patients.** <br>
   Zihao Wang, Aojie Zhang, Xinyue Xia, Sizhe Zhang, **Haitao Li**, Jiaqi Wang, Shuo Gao. <br>
-  **(Advanced Intelligent Systems)**
+  **(Advanced Intelligent Systems)**<br>
 
 
 
