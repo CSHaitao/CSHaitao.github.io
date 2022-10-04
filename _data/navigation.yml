@@ -3,8 +3,10 @@ main:
   - title: "Education"
     url: /#education-and-experience
 
+  - title: "Honors and Awards"
+    url: /#honor-and-awards  
+    
   - title: "Papers"
     url: /#publications    
 
-  - title: "Honors and Awards"
-    url: /#honor-and-awards    
+  
