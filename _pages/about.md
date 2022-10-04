@@ -68,7 +68,7 @@ Experience
 * ***09.2022-present*** Party branch secretary of jiyan 41, Tsinghua University.
 * ***09.2022-present*** Class assistant, Tsinghua University.
 * ***06.2022-09.2021*** Minister of Volunteer Department, The School League Committee, Buaa.
-* ***06.2020-09.2019*** Chairman of College Student Union, BUaa.
+* ***06.2020-09.2019*** Chairman of College Student Union, Buaa.
 
  
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
