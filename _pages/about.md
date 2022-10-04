@@ -33,7 +33,7 @@ Honors and Awards
 * 2021 IC Design Competition: First Prize, Second place in Beijing.
 * 2021 Excellent Student Leader of Beijing.
 * 2020 China National Scholarship.
-* 2020 **Mathematical Contest in Modeling: Feritorious Winner,** top1% in the world.
+* 2020 **Mathematical Contest in Modeling: Finalist Winner,** top1% in the world.
 * 2020 **China Undergraduate Mathematical Contest in Modeling: National Second Prize, First Prize of Beijing.**
 * 2020 MathorCup: National Second Prize.
 
