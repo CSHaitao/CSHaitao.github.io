@@ -29,7 +29,7 @@ Honors and Awards
 * 2021 **Highest Undergraduate Honor Shen Yuan medal.**
 * 2021 **Row Model of Buaa.**
 * 2021 The Challenge Cup: First Prize of Beijing.
-* 2021 China College Students' 'Internet+'Innovation and Entrepreneurship Competition: Second Prize of Beijing.
+* 2021 China College Students Internet+ Innovation and Entrepreneurship Competition: Second Prize of Beijing.
 * 2021 IC Design Competition: First Prize, Second place in Beijing.
 * 2021 Excellent Student Leader of Beijing.
 * 2020 China National Scholarship.
