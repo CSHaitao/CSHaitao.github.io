@@ -40,8 +40,6 @@ Honors and Awards
 
 Papers
 ======
-* **Constructing Tree-based Index for Efficient and Effective Dense Retrieval.** <br>
-  **Haitao Li**,Jingtao Zhan,Qingyao Ai,Jiaxin Mao,YIqun Liu,Min Zhang,Shaoping Ma.<br>
 * **THUIR at the NTCIR-16 WWW-4 Task.** <br>
   Shenghao Yang, ***Haitao Li***, Zhumin Chu, Jingtao Zhan, Yiqun Liu, Min Zhang and Shaoping Ma. <br>
   **(NTCIR 16)**<br>
