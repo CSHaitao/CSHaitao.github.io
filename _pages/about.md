@@ -22,7 +22,7 @@ News
 ======
 * **04.2023** We participated in COLIEE 2023 - Legal Case Retrieval Task and won the first place. 
 * **04.2023** We participated in COLIEE 2023 - Legal Case Entailment Task and won the third place. 
-* **03.2023** We participated in WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Seach Task and won the second place [[Pre-training Paper]](https://arxiv.org/abs/2303.04710) [[Unbiased Learning Paper]](https://lihaitao18375278.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).
+* **03.2023** We participated in WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Seach Task and won the second place [[Pre-training Paper]](https://arxiv.org/abs/2303.04710) [[Unbiased Paper]](https://lihaitao18375278.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).
 * **12.2022** I participated in CAIL2022 and won the second place [[Link]](http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2022).
 * **08.2022** We participated in LIC2022 and won the third prize [[Link]](https://aistudio.baidu.com/aistudio/competition/detail/157/0/leaderboard).
 
@@ -36,21 +36,24 @@ Papers
   **(SIGIR 2023 Full)**<br>
 * **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.** <br>
   ***Haitao Li***, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. <br>
-  **(SIGIR 2023 Full )**<br>
+  **(SIGIR 2023 Full)**<br>
+* **T^2Ranking: A large-scale Chinese Benchmark for Passage Ranking.** <br>
+  Xiaohui Xie, Qian Dong, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, ***Haitao Li***, Yiqun Liu and Jin Ma. <br>
+  **(SIGIR 2023 Resource)**<br>
 * **Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank.** <br>
   ***Haitao Li***, Jia Chen, Weihang Su, Qingyao Ai, Yiqun Liu. <br>
-  **(WSDM Cup 2023 Task 2 (2/213 Teams))**<br>
+  **(WSDM Cup 2023 Task2 (2/213 Teams))**<br>
   [[Paper]](https://arxiv.org/abs/2303.04710) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup)
 * **THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank.** <br>
   Jia Chen, ***Haitao Li***, Weihang Su, Qingyao Ai, Yiqun Liu. <br>
-  **(WSDM Cup 2023 Task 1 (2/187 Teams))**<br>
+  **(WSDM Cup 2023 Task1 (2/187 Teams))**<br>
   [[Paper]](https://lihaitao18375278.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup)
 * **THUIR at the NTCIR-16 WWW-4 Task.** <br>
   Shenghao Yang, ***Haitao Li***, Zhumin Chu, Jingtao Zhan, Yiqun Liu, Min Zhang and Shaoping Ma. <br>
   **(NTCIR 16)**<br>
 * **Underexposed Image Enhancement via Unsupervised Feature Attention Network.** <br>
   Fengji Ma, **Haitao Li**. <br>
-  **(ICME2021)**<br>
+  **(ICME 2021)**<br>
 * **A multi-level fusion network for airport capacity prediction.** <br>
   Wenbo Du, Shenwen Chen, **Haitao Li**, Zhishuai Li, Xianbin Cao, Yisheng Lv.<br>
   **(IEEE Transactions on Intelligent Transportation Systems (ITS))**<br>
@@ -62,6 +65,7 @@ Honors and Awards
 ======
 * 2022 **Outstanding Contribution to the Beijing Winter Olympics and Paralympics,** five volunteers in China.
 * 2022 **Self-improvement Star of Chinese College Students.**
+* 2022 Tianyi Scholarship.
 * 2022 Excellent Graduate of Beijing.
 * 2021 Special Award of Xiaomi Scholarship.
 * 2021 Feiyong Scholarship.
