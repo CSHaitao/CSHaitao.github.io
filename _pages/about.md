@@ -17,6 +17,15 @@ Education
 * **09.2018-06.2022** B.S., Electronic Engineering, Beijing University of Aeronautics and Astronautics, China.
 * **09.2019-06.2022** Minor, Mathematics, Beijing University of Aeronautics and Astronautics, China.
 
+
+News
+======
+* **04.2023** We participated in COLIEE 2023 - Legal Case Retrieval Task and won the first place. 
+* **04.2023** We participated in COLIEE 2023 - Legal Case Entailment Task and won the third place. 
+* **03.2023** We participated in WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Seach Task and won the second place[[Pre-training Paper]](https://arxiv.org/abs/2303.04710)[[Unbiased Learning Paper]](https://lihaitao18375278.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).
+* **12.2022** I participated in CAIL2022 and won the second place [[Link]](http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2022).
+* **08.2022** We participated in LIC2022 and won the third prize [[Link]](https://aistudio.baidu.com/aistudio/competition/detail/157/0/leaderboard).
+
 Honors and Awards
 ======
 * 2022 **Outstanding Contribution to the Beijing Winter Olympics and Paralympics,** five volunteers in China.
