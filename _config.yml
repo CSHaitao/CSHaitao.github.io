@@ -11,9 +11,9 @@ title                    : "Haitao Li (李海涛）"
 title_separator          : "-"
 name                     : &name "Haitao Li"
 description              : &description "personal description"
-url                      : https://lihaitao18375278.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://CSHaitao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/lihaitao18375278/lihaitao18375278.github.io"
+repository               : "https://github.com/CSHaitao/CSHaitao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
