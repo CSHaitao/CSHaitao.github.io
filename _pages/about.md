@@ -20,8 +20,8 @@ Education
 
 News
 ======
-* **04.2023** We participated in COLIEE 2023 - Legal Case Retrieval Task and won the first place. 
-* **04.2023** We participated in COLIEE 2023 - Legal Case Entailment Task and won the third place. 
+* **04.2023** We participated in COLIEE 2023 - Legal Case Retrieval Task and won the first place [[Paper]](https://arxiv.org/pdf/2305.06812.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023). 
+* **04.2023** We participated in COLIEE 2023 - Legal Case Entailment Task and won the third place[[Paper]](https://arxiv.org/pdf/2305.06817.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023). 
 * **03.2023** We participated in WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Seach Task and won the second place [[Pre-training Paper]](https://arxiv.org/abs/2303.04710) [[Unbiased Paper]](https://CSHaitao.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).
 * **12.2022** I participated in CAIL2022 and won the second place [[Link]](http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2022).
 * **08.2022** We participated in LIC2022 and won the third prize [[Link]](https://aistudio.baidu.com/aistudio/competition/detail/157/0/leaderboard).
@@ -31,15 +31,30 @@ News
 
 Papers
 ======
+* **An Intent Taxonomy of Legal Case Retrieval.** <br>
+  Yunqiu Shao, ***Haitao Li***, Yueyue Wu, Yiqun Liu, Qingyao Ai, Jiaxin Mao, Yixiao Ma, Shaoping Ma. <br>
+  **(Arxiv)**<br>
+  [[Paper]](https://arxiv.org/pdf/2307.13298.pdf)
+* **THUIR@ COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval.** <br>
+  ***Haitao Li***, Weihang Su, Changyue Wang, Yueyue Wu, Qingyao Ai, Yiqun Liu. <br>
+  **(COLIEE 2023)**<br>
+  [[Paper]](https://arxiv.org/pdf/2305.06812.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023)
+* **THUIR@ COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment.** <br>
+   ***Haitao Li***, Changyue Wang, Weihang Su, Yueyue Wu, Qingyao Ai, Yiqun Liu. <br>
+  **(COLIEE 2023)**<br>
+  [[Paper]](https://arxiv.org/pdf/2305.06817.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023)
 * **Constructing Tree-based Index for Efficient and Effective Dense Retrieval.** <br>
   ***Haitao Li***, Qingyao Ai, Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Zheng Liu, Zhao Cao. <br>
   **(SIGIR 2023 Full)**<br>
+  [[Paper]](https://arxiv.org/pdf/2304.11943.pdf) [[Code]](https://github.com/CSHaitao/JTR)
 * **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.** <br>
   ***Haitao Li***, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. <br>
   **(SIGIR 2023 Full)**<br>
+  [[Paper]](https://arxiv.org/pdf/2304.11370.pdf) [[Code]](https://github.com/CSHaitao/SAILER)
 * **T^2Ranking: A large-scale Chinese Benchmark for Passage Ranking.** <br>
   Xiaohui Xie, Qian Dong, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, ***Haitao Li***, Yiqun Liu and Jin Ma. <br>
   **(SIGIR 2023 Resource)**<br>
+  [[Paper]](https://arxiv.org/pdf/2304.03679.pdf) [[Code]](https://github.com/THUIR/T2Ranking)
 * **Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank.** <br>
   ***Haitao Li***, Jia Chen, Weihang Su, Qingyao Ai, Yiqun Liu. <br>
   **(WSDM Cup 2023 Task2 (2/213 Teams))**<br>
