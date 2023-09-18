@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Information Retrieval and Web Search.
+I am now a second year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Information Retrieval and Web Search.
 
 
 Education
@@ -31,9 +31,13 @@ News
 
 Papers
 ======
+* **I3Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval.** <br>
+  Qian Dong, Yiding Liu, Qingyao Ai, ***Haitao Li***, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma. <br>
+  **(CIKM 2023)**<br>
+  [[Paper]](https://arxiv.org/pdf/2306.02371.pdf)
 * **An Intent Taxonomy of Legal Case Retrieval.** <br>
   Yunqiu Shao, ***Haitao Li***, Yueyue Wu, Yiqun Liu, Qingyao Ai, Jiaxin Mao, Yixiao Ma, Shaoping Ma. <br>
-  **(Arxiv)**<br>
+  **(TOIS)**<br>
   [[Paper]](https://arxiv.org/pdf/2307.13298.pdf)
 * **THUIR@ COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language Models for Legal Case Retrieval.** <br>
   ***Haitao Li***, Weihang Su, Changyue Wang, Yueyue Wu, Qingyao Ai, Yiqun Liu. <br>
