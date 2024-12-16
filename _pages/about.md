@@ -12,9 +12,7 @@ I am now a third year master student in [THUIR](http://www.thuir.cn/), Departmen
 
 My research focuses on the following areas:
 
-**LLM4Legal**
-
-Focused on the in-depth application and optimization of LLMs in the legal domain. This includes:
+**LLM4Legal:** Focused on the in-depth application and optimization of LLMs in the legal domain. This includes:
 - ✨ **Vertical Knowledge Injection**  
   Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
 - 📚 **Domain-Specific Data Synthesis**  
@@ -22,9 +20,7 @@ Focused on the in-depth application and optimization of LLMs in the legal domain
 - 🤖 **LLM Agent Systems**  
   Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
   
-**LLMs-as-Judges**
-  
-Exploring the potential and applications of LLMs as intelligent evaluators. Key areas include:
+**LLMs-as-Judges:** Exploring the potential and applications of LLMs as intelligent evaluators. Key areas include:
 - 🎯 **Performance Evaluation**  
   Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
 - 🚀 **Model Evolution**  
