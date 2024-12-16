@@ -8,7 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Information Retrieval and Web Search.
+I am now a third year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
+
+My research focuses on the following areas:
+
+* LLM4Legal
+Focused on the in-depth application and optimization of LLMs in the legal domain. My research includes but is not limited to:
+✨ Vertical Knowledge Injection: Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
+📚 Domain-Specific Data Synthesis: Developing tailored training techniques for the legal field, leveraging self-play to generate structured and domain-compliant datasets, improving training efficiency and outcomes.
+🤖 LLM Agent Systems: Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
+
+* LLMs-as-Judges
+Exploring the potential and applications of LLMs as intelligent evaluators, including:
+🎯 Performance Evaluation: Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
+🚀 Model Evolution: Utilizing LLM-based evaluation feedback to guide the design and optimization of new models, accelerating iterative development.
+⚖️ Bias Mitigation: Developing more reliable LLM Judges to reduce biases and enhance fairness, ensuring trustworthy and equitable evaluation outcomes.
+
+
+I am also deeply interested in LLMs for complex problem decomposition and solving, multi-agent collaboration, retrieval-augmented generation (RAG), and information retrieval. I look forward to collaborating and exchanging ideas with researchers in these exciting areas!
+
+
 
 
 Education
@@ -20,17 +39,47 @@ Education
 
 News
 ======
-* **04.2023** We participated in COLIEE 2023 - Legal Case Retrieval Task and won the first place [[Paper]](https://arxiv.org/pdf/2305.06812.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023). 
-* **04.2023** We participated in COLIEE 2023 - Legal Case Entailment Task and won the third place[[Paper]](https://arxiv.org/pdf/2305.06817.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023). 
-* **03.2023** We participated in WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Seach Task and won the second place [[Pre-training Paper]](https://arxiv.org/abs/2303.04710) [[Unbiased Paper]](https://CSHaitao.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).
-* **12.2022** I participated in CAIL2022 and won the second place [[Link]](http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2022).
-* **08.2022** We participated in LIC2022 and won the third prize [[Link]](https://aistudio.baidu.com/aistudio/competition/detail/157/0/leaderboard).
-
+* **12.2024** 🎉 I was awarded the **Shimo Zhong Scholarship**, the highest honor in the Department of Computer Science at Tsinghua University, given to only six students each year. 🏆  
+* **12.2024** 📰 We released the first version of our survey on **LLMs-as-Judges**: [[LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods]](https://arxiv.org/abs/2412.05579) [[Github]](https://github.com/CSHaitao/Awesome-LLMs-as-Judges).  
+* **06.2024** 🌟 I am honored to have received the **Siebel Scholars Award**, a prestigious recognition given annually to only 83 scholars worldwide. [Details here](https://www.siebelscholars.com/scholarslist/).  
+* **05.2024** 🥇 We participated in **COLIEE 2024 - Legal Case Retrieval Task** and won the **first place**! [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-3076-6_15) [[Code]](https://github.com/CSHaitao/SAILER).  
+* **04.2023** 🏆 We participated in **COLIEE 2023 - Legal Case Retrieval Task** and won the **first place**! [[Paper]](https://arxiv.org/pdf/2305.06812.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023).  
+* **04.2023** 🎉 We participated in **COLIEE 2023 - Legal Case Entailment Task** and won the **third place**. [[Paper]](https://arxiv.org/pdf/2305.06817.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023).  
+* **03.2023** 🥈 We participated in **WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Search Task** and won the **second place**!  
+   - [[Pre-training Paper]](https://arxiv.org/abs/2303.04710)  
+   - [[Unbiased Paper]](https://CSHaitao.github.io/files/WSDM-Cup-Unbiased.pdf)  
+   - [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).  
+* **12.2022** 🥈 I participated in **CAIL2022** and won the **second place**. [[Link]](http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2022).  
+* **08.2022** 🏅 We participated in **LIC2022** and won the **third prize**. [[Link]](https://aistudio.baidu.com/aistudio/competition/detail/157/0/leaderboard).  
 
 
 
 Papers
 ======
+* **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models.** <br>
+  **Haitao Li**, Qingyao Ai, Jia Chen, Qian Dong, Zhijing Wu, Yiqun Liu. <br>
+  **(AAAI 2025)**<br>
+  [[Paper]](https://arxiv.org/abs/2403.18365)[[Code]](https://github.com/CSHaitao/BLADE)
+* **DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment.** <br>
+  **Haitao Li**, Qingyao Ai, Xinyan Han, Jia Chen, Qian Dong, Yiqun Liu. <br>
+  **(AAAI 2025)**<br>
+  [[Paper]](https://arxiv.org/abs/2403.18435)[[Code]](https://github.com/CSHaitao/DELTA)
+* **LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models.** <br>
+  **Haitao Li**, You Chen, Qingyao Ai, Yueyue Wu, Ruizhe Zhang, Yiqun Liu. <br>
+  **(NeurIPs 2024)**<br>
+  [[Paper]](https://arxiv.org/abs/2409.20288)[[Code]](https://github.com/CSHaitao/LexEval)
+* **PRE: A Peer Review Based Large Language Model Evaluator.** <br>
+  Zhumin Chu, Qingyao Ai, Yiteng Tu, **Haitao Li**, Yiqun Liu. <br>
+  **(CIKM 2024)**<br>
+  [[Paper]](https://arxiv.org/abs/2401.15641)[[Code]](https://github.com/chuzhumin98/PRE)
+* **Unsupervised large language model alignment for information retrieval via contrastive feedback.** <br>
+  Qian Dong, Yiding Liu, Qingyao Ai, Zhijing Wu, **Haitao Li**, Yiqun Liu, Shuaiqiang Wang, Dawei Yin, Shaoping Ma. <br>
+  **(SIGIR 2024)**<br>
+  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657689)[[Code]](https://github.com/Deriq-Qian-Dong/RLCF)
+* **LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset.** <br>
+  **Haitao Li**, Yunqiu Shao, Yueyue Wu, Qingyao Ai, Yixiao Ma, Yiqun Liu. <br>
+  **(SIGIR 2024)**<br>
+  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657887)[[Code]](https://github.com/THUIR/LeCaRDv2)
 * **I3Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval.** <br>
   Qian Dong, Yiding Liu, Qingyao Ai, ***Haitao Li***, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma. <br>
   **(CIKM 2023)**<br>
@@ -82,6 +131,9 @@ Papers
 
 Honors and Awards
 ======
+* 2024 **Shimo Zhong Scholarship** 1/6, The highest honor in the Department of Computer Science at Tsinghua University.
+* 2024 **Siebel Scholars Award** 1/83 across the world, Price $30,000 [Link](https://www.siebelscholars.com/scholarslist/).
+* 2023 **China National Scholarship.**
 * 2022 **Outstanding Contribution to the Beijing Winter Olympics and Paralympics,** five volunteers in China.
 * 2022 **Self-improvement Star of Chinese College Students.**
 * 2022 Tianyi Scholarship.
