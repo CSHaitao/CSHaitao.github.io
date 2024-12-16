@@ -11,7 +11,7 @@ redirect_from:
 I am now a third year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
 
 My research focuses on the following areas:
-#### **LLM4Legal**
+**LLM4Legal**
 Focused on the in-depth application and optimization of LLMs in the legal domain. This includes:
 - ✨ **Vertical Knowledge Injection**  
   Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
@@ -19,7 +19,7 @@ Focused on the in-depth application and optimization of LLMs in the legal domain
   Developing tailored training techniques for the legal field, leveraging self-play to generate structured and domain-compliant datasets, improving training efficiency and outcomes.
 - 🤖 **LLM Agent Systems**  
   Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
-#### **LLMs-as-Judges**
+**LLMs-as-Judges**
 Exploring the potential and applications of LLMs as intelligent evaluators. Key areas include:
 - 🎯 **Performance Evaluation**  
   Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
@@ -134,7 +134,7 @@ Papers
 Honors and Awards
 ======
 * 2024 **Shimo Zhong Scholarship** 1/6, The highest honor in the Department of Computer Science at Tsinghua University.
-* 2024 [**Siebel Scholars Award**](https://www.siebelscholars.com/scholarslist/) 1/83 across the world, Price $30,000.
+* 2024 [**Siebel Scholars Award**](https://www.siebelscholars.com/scholarslist/) 1/83 across the world, $30,000.
 * 2023 **China National Scholarship.**
 * 2022 **Outstanding Contribution to the Beijing Winter Olympics and Paralympics,** five volunteers in China.
 * 2022 **Self-improvement Star of Chinese College Students.**
