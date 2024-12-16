@@ -12,7 +12,7 @@ I am now a third year master student in [THUIR](http://www.thuir.cn/), Departmen
 
 My research focuses on the following areas:
 
-### **LLM4Legal**
+**LLM4Legal**
 
 Focused on the in-depth application and optimization of LLMs in the legal domain. This includes:
 
@@ -25,7 +25,7 @@ Focused on the in-depth application and optimization of LLMs in the legal domain
 - 🤖 **LLM Agent Systems**  
   Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
 
-### **LLMs-as-Judges**
+**LLMs-as-Judges**
 
 Exploring the potential and applications of LLMs as intelligent evaluators. Key areas include:
 
