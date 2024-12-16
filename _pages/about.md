@@ -13,20 +13,27 @@ I am now a third year master student in [THUIR](http://www.thuir.cn/), Departmen
 My research focuses on the following areas:
 
 * LLM4Legal
+  
 Focused on the in-depth application and optimization of LLMs in the legal domain. My research includes but is not limited to:
+
 ✨ Vertical Knowledge Injection: Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
+
 📚 Domain-Specific Data Synthesis: Developing tailored training techniques for the legal field, leveraging self-play to generate structured and domain-compliant datasets, improving training efficiency and outcomes.
+
 🤖 LLM Agent Systems: Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
 
 * LLMs-as-Judges
+  
 Exploring the potential and applications of LLMs as intelligent evaluators, including:
+
 🎯 Performance Evaluation: Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
+
 🚀 Model Evolution: Utilizing LLM-based evaluation feedback to guide the design and optimization of new models, accelerating iterative development.
+
 ⚖️ Bias Mitigation: Developing more reliable LLM Judges to reduce biases and enhance fairness, ensuring trustworthy and equitable evaluation outcomes.
 
 
 I am also deeply interested in LLMs for complex problem decomposition and solving, multi-agent collaboration, retrieval-augmented generation (RAG), and information retrieval. I look forward to collaborating and exchanging ideas with researchers in these exciting areas!
-
 
 
 
@@ -39,7 +46,7 @@ Education
 
 News
 ======
-* **12.2024** 🎉 I was awarded the **Shimo Zhong Scholarship**, the highest honor in the Department of Computer Science at Tsinghua University, given to only six students each year. 🏆  
+* **12.2024** 🎉 I was awarded the **Shimo Zhong Scholarship**, the highest honor in the Department of Computer Science at Tsinghua University, given to only six students each year.  
 * **12.2024** 📰 We released the first version of our survey on **LLMs-as-Judges**: [[LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods]](https://arxiv.org/abs/2412.05579) [[Github]](https://github.com/CSHaitao/Awesome-LLMs-as-Judges).  
 * **06.2024** 🌟 I am honored to have received the **Siebel Scholars Award**, a prestigious recognition given annually to only 83 scholars worldwide. [Details here](https://www.siebelscholars.com/scholarslist/).  
 * **05.2024** 🥇 We participated in **COLIEE 2024 - Legal Case Retrieval Task** and won the **first place**! [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-3076-6_15) [[Code]](https://github.com/CSHaitao/SAILER).  
@@ -98,15 +105,15 @@ Papers
   [[Paper]](https://arxiv.org/pdf/2305.06817.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023)
 * **Constructing Tree-based Index for Efficient and Effective Dense Retrieval.** <br>
   ***Haitao Li***, Qingyao Ai, Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Zheng Liu, Zhao Cao. <br>
-  **(SIGIR 2023 Full)**<br>
+  **(SIGIR 2023)**<br>
   [[Paper]](https://arxiv.org/pdf/2304.11943.pdf) [[Code]](https://github.com/CSHaitao/JTR)
 * **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.** <br>
   ***Haitao Li***, Qingyao Ai, Jia Chen, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. <br>
-  **(SIGIR 2023 Full)**<br>
+  **(SIGIR 2023)**<br>
   [[Paper]](https://arxiv.org/pdf/2304.11370.pdf) [[Code]](https://github.com/CSHaitao/SAILER)
 * **T^2Ranking: A large-scale Chinese Benchmark for Passage Ranking.** <br>
   Xiaohui Xie, Qian Dong, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, ***Haitao Li***, Yiqun Liu and Jin Ma. <br>
-  **(SIGIR 2023 Resource)**<br>
+  **(SIGIR 2023)**<br>
   [[Paper]](https://arxiv.org/pdf/2304.03679.pdf) [[Code]](https://github.com/THUIR/T2Ranking)
 * **Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank.** <br>
   ***Haitao Li***, Jia Chen, Weihang Su, Qingyao Ai, Yiqun Liu. <br>
