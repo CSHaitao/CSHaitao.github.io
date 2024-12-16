@@ -132,7 +132,7 @@ Papers
 Honors and Awards
 ======
 * 2024 **Shimo Zhong Scholarship** 1/6, The highest honor in the Department of Computer Science at Tsinghua University.
-* 2024 **Siebel Scholars Award** 1/83 across the world, Price $30,000 [Link](https://www.siebelscholars.com/scholarslist/).
+* 2024 [**Siebel Scholars Award**](https://www.siebelscholars.com/scholarslist/) 1/83 across the world, Price $30,000.
 * 2023 **China National Scholarship.**
 * 2022 **Outstanding Contribution to the Beijing Winter Olympics and Paralympics,** five volunteers in China.
 * 2022 **Self-improvement Star of Chinese College Students.**
