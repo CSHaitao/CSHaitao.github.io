@@ -12,25 +12,35 @@ I am now a third year master student in [THUIR](http://www.thuir.cn/), Departmen
 
 My research focuses on the following areas:
 
-* LLM4Legal
-  
-Focused on the in-depth application and optimization of LLMs in the legal domain. My research includes but is not limited to:
+---
 
-✨ Vertical Knowledge Injection: Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
+### **LLM4Legal**
 
-📚 Domain-Specific Data Synthesis: Developing tailored training techniques for the legal field, leveraging self-play to generate structured and domain-compliant datasets, improving training efficiency and outcomes.
+Focused on the in-depth application and optimization of LLMs in the legal domain. This includes:
 
-🤖 LLM Agent Systems: Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
+- ✨ **Vertical Knowledge Injection**  
+  Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
 
-* LLMs-as-Judges
-  
-Exploring the potential and applications of LLMs as intelligent evaluators, including:
+- 📚 **Domain-Specific Data Synthesis**  
+  Developing tailored training techniques for the legal field, leveraging self-play to generate structured and domain-compliant datasets, improving training efficiency and outcomes.
 
-🎯 Performance Evaluation: Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
+- 🤖 **LLM Agent Systems**  
+  Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
 
-🚀 Model Evolution: Utilizing LLM-based evaluation feedback to guide the design and optimization of new models, accelerating iterative development.
+---
 
-⚖️ Bias Mitigation: Developing more reliable LLM Judges to reduce biases and enhance fairness, ensuring trustworthy and equitable evaluation outcomes.
+### **LLMs-as-Judges**
+
+Exploring the potential and applications of LLMs as intelligent evaluators. Key areas include:
+
+- 🎯 **Performance Evaluation**  
+  Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
+
+- 🚀 **Model Evolution**  
+  Utilizing LLM-based evaluation feedback to guide the design and optimization of new models, accelerating iterative development.
+
+- ⚖️ **Bias Mitigation**  
+  Developing more reliable LLM Judges to reduce biases and enhance fairness, ensuring trustworthy and equitable evaluation outcomes.
 
 
 I am also deeply interested in LLMs for complex problem decomposition and solving, multi-agent collaboration, retrieval-augmented generation (RAG), and information retrieval. I look forward to collaborating and exchanging ideas with researchers in these exciting areas!
