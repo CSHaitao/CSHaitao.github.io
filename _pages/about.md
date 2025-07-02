@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
+I am a third-year Ph.D. student at [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
 
 My research focuses on the following areas:
 
-**LLM4Legal:** Focused on the in-depth application and optimization of LLMs in the legal domain. This includes:
+**Post-Training of LLMs:**  Focuses on improving the performance of LLMs through effective post-training strategies. This includes:
 - ✨ **Vertical Knowledge Injection**  
-  Exploring efficient methods (e.g., post-training) to incorporate domain-specific legal knowledge into LLMs, enhancing their performance in specialized legal tasks.
-- 📚 **Domain-Specific Data Synthesis**  
-  Developing tailored training techniques for the legal field, leveraging self-play to generate structured and domain-compliant datasets, improving training efficiency and outcomes.
-- 🤖 **LLM Agent Systems**  
-  Investigating the use of LLMs as intelligent agents in legal scenarios, addressing tasks such as legal document drafting, case retrieval, and statute matching to advance legal automation.
-  
-**LLMs-as-Judges:** Exploring the potential and applications of LLMs as intelligent evaluators. Key areas include:
+   Integrating expert-level knowledge into LLMs via continued pretraining or instruction tuning to enhance their capabilities on specialized task.
+- 📚 **Efficient Reinforcement Learning Algorithms**  
+  Developing more effective and efficient RL-based methods to push the boundaries of LLM capabilities in reasoning and decision-making.
+
+**Reward Modeling and LLM-as-a-Judge:** Exploring the potential and applications of LLMs as as reward models to enable more precise and scalable reward modeling, which in turn facilitates automated model evolution. Key aspects include:
 - 🎯 **Performance Evaluation**  
   Researching how LLMs can assess model capabilities (e.g., generation quality, reasoning ability) and building unified evaluation frameworks.
 - 🚀 **Model Evolution**  
@@ -34,7 +32,7 @@ I am also deeply interested in LLMs for complex problem decomposition and solvin
 
 Education
 ======
-* **09.2022-present** Master, Department of Computer Science and Technology, Tsinghua University, China.
+* **09.2022-present** PH.D., Department of Computer Science and Technology, Tsinghua University, China.
 * **09.2018-06.2022** B.S., Electronic Engineering, Beijing University of Aeronautics and Astronautics, China.
 * **09.2019-06.2022** Minor, Mathematics, Beijing University of Aeronautics and Astronautics, China.
 
@@ -58,6 +56,19 @@ News
 
 Papers
 ======
+* **Calibraeval: Calibrating prediction distribution to mitigate selection bias in llms-as-judges.** <br>
+  **Haitao Li**, Junjie Chen, Qingyao Ai, Zhumin Chu, Yujia Zhou, Qian Dong, Yiqun Liu. <br>
+  **(ACL 2025 main)**<br>
+  [[Paper]](https://arxiv.org/abs/2410.15393)[[Code]](https://github.com/CSHaitao/CalibraEval)
+* **LegalAgentBench: Evaluating LLM Agents in Legal Domain.** <br>
+  **Haitao Li**, Junjie Chen, Jingli Yang, Qingyao Ai, Wei Jia, Youfeng Liu, Kai Lin, Yueyue Wu, Guozhi Yuan, Yiran Hu, Wuyue Wang, Yiqun Liu, Minlie Huang. <br>
+  **(ACL 2025 main)**<br>
+  [[Paper]](https://arxiv.org/pdf/2412.17259)[[Code]](https://github.com/CSHaitao/
+LegalAgentBench.)
+* **LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation.** <br>
+  **Haitao Li**, Yifan Chen, Yiran Hu, Qingyao Ai, Junjie Chen, Xiaoyu Yang, Jianhui Yang, Yueyue Wu, Zeyang Liu, Yiqun Liu. <br>
+  **(SIGIR 2025)**<br>
+  [[Paper]](https://arxiv.org/pdf/2502.20640)[[Code]](https://github.com/CSHaitao/LexRAG.)
 * **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models.** <br>
   **Haitao Li**, Qingyao Ai, Jia Chen, Qian Dong, Zhijing Wu, Yiqun Liu. <br>
   **(AAAI 2025)**<br>
