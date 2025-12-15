@@ -10,20 +10,46 @@
   /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.5em 1em;
+  padding: 0.75em 1.5em;
   color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
-  font-weight: bold;
+  font-weight: 600;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  background: linear-gradient(135deg, $royal-blue, $indigo);
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, transparent 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(37, 99, 235, 0.3);
+
+    &::before {
+      opacity: 1;
+    }
+  }
+
+  &:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
   }
 
   .icon {

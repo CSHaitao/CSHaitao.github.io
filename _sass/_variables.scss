@@ -14,8 +14,8 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+$monospace                  : "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -47,24 +47,45 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Deep Blue/Indigo Color System */
+$deep-navy                  : #1a365d;
+$royal-blue                 : #2563eb;
+$indigo                     : #4f46e5;
+$sky-blue                   : #0ea5e9;
 
+/* Navy Tonal Scale */
+$navy-900                   : #0f172a;
+$navy-800                   : #1e293b;
+$navy-700                   : #334155;
+$navy-600                   : #475569;
+$navy-500                   : #64748b;
+$navy-400                   : #94a3b8;
+$navy-300                   : #cbd5e1;
+$navy-200                   : #e2e8f0;
+$navy-100                   : #f1f5f9;
+$navy-50                    : #f8fafc;
+
+/* Legacy gray variables (for compatibility) */
+$gray                       : $navy-500;
+$dark-gray                  : $navy-800;
+$darker-gray                : $navy-900;
+$light-gray                 : $navy-400;
+$lighter-gray               : $navy-200;
+
+/* Core Colors */
 $body-color                 : #fff;
 $background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$code-background-color      : $navy-50;
+$code-background-color-dark : $navy-100;
+$text-color                 : $navy-800;
+$border-color               : $navy-300;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+/* Brand Colors */
+$primary-color              : $royal-blue;
+$success-color              : #10b981;
+$warning-color              : #f59e0b;
+$danger-color               : #ef4444;
+$info-color                 : $sky-blue;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +111,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : $royal-blue;
+$link-color-hover           : $deep-navy;
+$link-color-visited         : mix($royal-blue, $navy-500, 70%);
+$masthead-link-color        : $navy-700;
+$masthead-link-color-hover  : $royal-blue;
 
 
 /*
@@ -146,8 +167,10 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 8px;
+$box-shadow                 : 0 2px 4px rgba(0, 0, 0, 0.08);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+$global-transition-fast     : all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+$global-transition-slow     : all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
