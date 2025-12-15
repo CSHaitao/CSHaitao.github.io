@@ -17,6 +17,13 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <div class="lang-switch">
+          {% if page.url == "/zh/" or page.url contains "/zh/" %}
+            <a href="{{ base_path }}/" class="lang-btn">EN</a>
+          {% else %}
+            <a href="{{ base_path }}/zh/" class="lang-btn">中文</a>
+          {% endif %}
+        </div>
       </nav>
     </div>
   </div>

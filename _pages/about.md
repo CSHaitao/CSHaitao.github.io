@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
+I am a fourth-year Ph.D. student at [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
 
 My research focuses on the following areas:
 
@@ -39,6 +39,7 @@ Education
 
 News
 ======
+* **2025** 🏆 I was honored to receive the **China National Scholarship**, **CAST Young Talent Development Program (PhD Track)**, and **Tsinghua University Tanzen Scholar** (15 recipients university-wide)!
 * **12.2024** 🎉 I was awarded the **Shimo Zhong Scholarship**, the highest honor in the Department of Computer Science at Tsinghua University, given to only six students each year.  
 * **12.2024** 📰 We released the first version of our survey on **LLMs-as-Judges**: [[LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods]](https://arxiv.org/abs/2412.05579) [[Github]](https://github.com/CSHaitao/Awesome-LLMs-as-Judges).  
 * **06.2024** 🌟 I am honored to have received the **Siebel Scholars Award**, a prestigious recognition given annually to only 83 scholars worldwide. [Details here](https://www.siebelscholars.com/scholarslist/).  
@@ -144,6 +145,9 @@ LegalAgentBench.)
 
 Honors and Awards
 ======
+* 2025 **China National Scholarship.**
+* 2025 **CAST Young Talent Development Program (PhD Track).**
+* 2025 **Tsinghua University Tanzen Scholar.**
 * 2024 **Shimo Zhong Scholarship** 1/6, The highest honor in the Department of Computer Science at Tsinghua University.
 * 2024 [**Siebel Scholars Award**](https://www.siebelscholars.com/scholarslist/) 1/83 across the world, $30,000.
 * 2023 **China National Scholarship.**
