@@ -19,7 +19,7 @@
     border-radius: 16px;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05),
                 0 2px 4px -1px rgba(0, 0, 0, 0.03);
-    padding: 2.5rem 1.75rem;
+    padding: 2rem 1.5rem;
     position: sticky;
     top: 2rem;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -84,13 +84,13 @@
     display: block;
     width: auto;
     height: auto;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
 
   img {
-    max-width: 180px;
+    max-width: 140px;
     border-radius: 50%;
-    border: 4px solid $navy-100;
+    border: 3px solid $navy-100;
     box-shadow: 0 8px 16px rgba(26, 54, 93, 0.12);
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 
@@ -122,32 +122,32 @@
 }
 
 .author__name {
-  margin: 0 0 0.75rem;
-  font-size: $type-size-4;
+  margin: 0 0 1rem;
+  font-size: $type-size-5;
   font-weight: 700;
   color: $navy-900;
   letter-spacing: -0.02em;
-  line-height: 1.3;
+  line-height: 1.4;
 
   @include breakpoint($large) {
     margin-top: 0;
-    margin-bottom: 0.75rem;
+    margin-bottom: 1rem;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
 }
 
 .author__bio {
-  margin: 0 0 2rem;
-  font-size: $type-size-6;
+  margin: 0 0 1.5rem;
+  font-size: $type-size-7;
   color: $navy-600;
-  line-height: 1.65;
+  line-height: 1.6;
 
   @include breakpoint($large) {
     margin-top: 0;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
 }
 
@@ -244,19 +244,19 @@
   a {
     display: flex;
     align-items: center;
-    margin-bottom: 0.5rem;
-    padding: 0.85rem 1.25rem;
+    margin-bottom: 0.4rem;
+    padding: 0.6rem 0.9rem;
     color: $navy-700;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 8px;
     transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     background: transparent;
 
     i {
-      font-size: 1.5em;
-      margin-right: 1rem;
-      width: 24px;
+      font-size: 1.3em;
+      margin-right: 0.75rem;
+      width: 20px;
       text-align: center;
       transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
       flex-shrink: 0;
@@ -265,12 +265,12 @@
     &:hover {
       background: $navy-50;
       color: $royal-blue;
-      transform: translateX(4px);
+      transform: translateX(2px);
       text-decoration: none;
 
       i {
         color: $royal-blue;
-        transform: scale(1.1);
+        transform: scale(1.05);
       }
     }
   }
