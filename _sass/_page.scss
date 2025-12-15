@@ -449,3 +449,56 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Visitor Map
+   ========================================================================== */
+
+.visitor-map {
+  margin-top: 4rem;
+  padding: 2.5rem;
+  background: linear-gradient(135deg, $navy-50 0%, #ffffff 100%);
+  border-radius: 16px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05),
+              0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  border: 1px solid $navy-200;
+
+  &__title {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    font-size: $type-size-3;
+    color: $navy-900;
+    text-align: center;
+    font-weight: 700;
+    border: none;
+    padding: 0;
+
+    &::after {
+      display: none;
+    }
+  }
+
+  &__description {
+    text-align: center;
+    color: $navy-600;
+    font-size: $type-size-6;
+    margin-bottom: 2rem;
+    font-style: italic;
+  }
+
+  &__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+  }
+}

@@ -80,5 +80,12 @@ redirect_from:
 * **2021年9月-2022年6月** 校团委志愿服务部部长，北京航空航天大学
 * **2019年9月-2020年6月** 学院学生会主席，北京航空航天大学
 
+---
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
+<div class="visitor-map">
+  <h2 class="visitor-map__title">🌍 访客地图</h2>
+  <p class="visitor-map__description">感谢来自世界各地的访问！</p>
+  <div class="visitor-map__container">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ntPmnUOUiTp6VVk_fiKXf6vboAHV_ss2pwMEJguMFOo&cl=ffffff&w=a"></script>
+  </div>
+</div>
